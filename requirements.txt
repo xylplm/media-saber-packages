@@ -112,5 +112,3 @@ websockets==10.3
 Werkzeug==2.2.3
 wsproto==1.2.0
 zhconv==1.4.3
-baidu-aip==2.2.17.0
-chardet==5.1.0
